@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "main": "app.js",
+    "description": "My first koa program!",
+    "scripts": {
+        "start": "app.js"
+    },
+    "dependencies": {
+        "koa": "2.0.0"
+    }
+}
